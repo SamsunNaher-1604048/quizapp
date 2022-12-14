@@ -1,0 +1,19 @@
+.con2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+  
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.inputfield{
+    width: 560px;
+}
+.btn1{
+    width: 560px;
+}

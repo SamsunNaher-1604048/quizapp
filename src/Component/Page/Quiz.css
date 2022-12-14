@@ -1,0 +1,33 @@
+.loading{
+    color: gray;
+}
+.quiz{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.name{
+    font-size: 25px;
+    color: #008ae6;
+    border: 1px solid  #008ae6;
+    padding: 10px 20px;
+    font-family: Sans-serif;
+}
+.quizinfo{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cat{
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: Sans-serif;
+    color:  #008ae6;;
+}
+.score{
+    margin-right: 20px;
+    font-size: 20px;
+    font-family: Sans-serif;
+    color:  #008ae6;;
+}
